@@ -1,0 +1,23 @@
+﻿<Window x:Class="demo.Windows.New_Request"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:demo.Windows"
+        mc:Ignorable="d"
+        Title="New_Request" Height="450" Width="800">
+    <Grid>
+        <TextBlock HorizontalAlignment="Left" VerticalAlignment="Top" Margin="50,40,0,0">Тип устройства</TextBlock>
+        <TextBox x:Name="DeviceType" HorizontalAlignment="Left" Height="24" Margin="50,70,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="200"/>
+
+        <TextBlock HorizontalAlignment="Left" VerticalAlignment="Top" Margin="50,115,0,0">Модель устройства</TextBlock>
+        <TextBox x:Name="DeviceModel" HorizontalAlignment="Left" Height="24" Margin="50,140,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="200"/>
+
+        <TextBlock HorizontalAlignment="Left" VerticalAlignment="Top" Margin="50,185,0,0">Комментарий</TextBlock>
+        <TextBox x:Name="Description" HorizontalAlignment="Left" Height="100" Margin="50,210,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="200"/>
+
+        <Button HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="50,0,0,90" Width="200" Click="Send_request_Click">Отправить</Button>
+        <Button HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="50,0,0,50" Width="200" Click="GoBack_Click">Назад</Button>
+
+    </Grid>
+</Window>

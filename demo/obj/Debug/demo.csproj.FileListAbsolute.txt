@@ -1,0 +1,92 @@
+C:\Users\koval\source\repos\demo\demo\bin\Debug\demo.exe.config
+C:\Users\koval\source\repos\demo\demo\bin\Debug\demo.exe
+C:\Users\koval\source\repos\demo\demo\bin\Debug\demo.pdb
+C:\Users\koval\source\repos\demo\demo\bin\Debug\EntityFramework.dll
+C:\Users\koval\source\repos\demo\demo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\koval\source\repos\demo\demo\bin\Debug\EntityFramework.xml
+C:\Users\koval\source\repos\demo\demo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\koval\source\repos\demo\demo\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\koval\source\repos\demo\demo\obj\Debug\demo.csproj.AssemblyReference.cache
+C:\Users\koval\source\repos\demo\demo\obj\Debug\demo.csproj.SuggestedBindingRedirects.cache
+C:\Users\koval\source\repos\demo\demo\obj\Debug\Windows\MainWindow.g.cs
+C:\Users\koval\source\repos\demo\demo\obj\Debug\App.g.cs
+C:\Users\koval\source\repos\demo\demo\obj\Debug\demo_Content.g.cs
+C:\Users\koval\source\repos\demo\demo\obj\Debug\demo_MarkupCompile.cache
+C:\Users\koval\source\repos\demo\demo\obj\Debug\demo_MarkupCompile.lref
+C:\Users\koval\source\repos\demo\demo\obj\Debug\Windows\MainWindow.baml
+C:\Users\koval\source\repos\demo\demo\obj\Debug\demo.g.resources
+C:\Users\koval\source\repos\demo\demo\obj\Debug\demo.Properties.Resources.resources
+C:\Users\koval\source\repos\demo\demo\obj\Debug\demo.csproj.GenerateResource.cache
+C:\Users\koval\source\repos\demo\demo\obj\Debug\demo.csproj.CoreCompileInputs.cache
+C:\Users\koval\source\repos\demo\demo\obj\Debug\demo.csproj.CopyComplete
+C:\Users\koval\source\repos\demo\demo\obj\Debug\demo.exe
+C:\Users\koval\source\repos\demo\demo\obj\Debug\demo.pdb
+C:\Users\koval\source\repos\demo\demo\obj\Debug\Windows\Auth.g.cs
+C:\Users\koval\source\repos\demo\demo\obj\Debug\Windows\Auth.baml
+C:\Users\koval\source\repos\demo\demo\obj\Debug\Pages\User_buttons.g.cs
+C:\Users\koval\source\repos\demo\demo\obj\Debug\Pages\User_buttons.baml
+C:\Users\koval\source\repos\demo\demo\obj\Debug\Windows\New_Request.g.cs
+C:\Users\koval\source\repos\demo\demo\obj\Debug\Windows\New_Request.baml
+C:\Users\koval\source\repos\demo\demo\obj\Debug\Windows\Request_list.g.cs
+C:\Users\koval\source\repos\demo\demo\obj\Debug\Windows\Request_list.baml
+C:\Users\fuzze\OneDrive\Рабочий стол\demo-main\demo\obj\Debug\demo.csproj.AssemblyReference.cache
+C:\Users\fuzze\OneDrive\Рабочий стол\demo-main\demo\obj\Debug\demo.csproj.SuggestedBindingRedirects.cache
+C:\Users\fuzze\OneDrive\Рабочий стол\demo-main\demo\obj\Debug\Pages\User_buttons.g.cs
+C:\Users\fuzze\OneDrive\Рабочий стол\demo-main\demo\obj\Debug\Windows\Auth.g.cs
+C:\Users\fuzze\OneDrive\Рабочий стол\demo-main\demo\obj\Debug\Windows\MainWindow.g.cs
+C:\Users\fuzze\OneDrive\Рабочий стол\demo-main\demo\obj\Debug\Windows\New_Request.g.cs
+C:\Users\fuzze\OneDrive\Рабочий стол\demo-main\demo\obj\Debug\Windows\Request_list.g.cs
+C:\Users\fuzze\OneDrive\Рабочий стол\demo-main\demo\obj\Debug\App.g.cs
+C:\Users\fuzze\OneDrive\Рабочий стол\demo-main\demo\obj\Debug\demo_Content.g.cs
+C:\Users\fuzze\OneDrive\Рабочий стол\demo-main\demo\obj\Debug\demo_MarkupCompile.cache
+C:\Users\fuzze\OneDrive\Рабочий стол\demo-main\demo\obj\Debug\demo_MarkupCompile.lref
+C:\Users\fuzze\OneDrive\Рабочий стол\demo-main\demo\obj\Debug\demo.exe
+C:\Users\fuzze\OneDrive\Рабочий стол\demo-main\demo\obj\Debug\demo.pdb
+C:\Users\fuzze\OneDrive\Рабочий стол\demo-main\demo\bin\Debug\demo.exe.config
+C:\Users\fuzze\OneDrive\Рабочий стол\demo-main\demo\bin\Debug\demo.exe
+C:\Users\fuzze\OneDrive\Рабочий стол\demo-main\demo\bin\Debug\demo.pdb
+C:\Users\fuzze\OneDrive\Рабочий стол\demo-main\demo\bin\Debug\EntityFramework.dll
+C:\Users\fuzze\OneDrive\Рабочий стол\demo-main\demo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\fuzze\OneDrive\Рабочий стол\demo-main\demo\bin\Debug\EntityFramework.xml
+C:\Users\fuzze\OneDrive\Рабочий стол\demo-main\demo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\fuzze\OneDrive\Рабочий стол\demo-main\demo\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\fuzze\OneDrive\Рабочий стол\demo-main\demo\obj\Debug\Pages\User_buttons.baml
+C:\Users\fuzze\OneDrive\Рабочий стол\demo-main\demo\obj\Debug\Windows\Auth.baml
+C:\Users\fuzze\OneDrive\Рабочий стол\demo-main\demo\obj\Debug\Windows\MainWindow.baml
+C:\Users\fuzze\OneDrive\Рабочий стол\demo-main\demo\obj\Debug\Windows\New_Request.baml
+C:\Users\fuzze\OneDrive\Рабочий стол\demo-main\demo\obj\Debug\Windows\Request_list.baml
+C:\Users\fuzze\OneDrive\Рабочий стол\demo-main\demo\obj\Debug\demo.g.resources
+C:\Users\fuzze\OneDrive\Рабочий стол\demo-main\demo\obj\Debug\demo.Properties.Resources.resources
+C:\Users\fuzze\OneDrive\Рабочий стол\demo-main\demo\obj\Debug\demo.csproj.GenerateResource.cache
+C:\Users\fuzze\OneDrive\Рабочий стол\demo-main\demo\obj\Debug\demo.csproj.CoreCompileInputs.cache
+C:\Users\fuzze\OneDrive\Рабочий стол\demo-main\demo\obj\Debug\demo.csproj.CopyComplete
+C:\Users\SERGEY\Desktop\demo-main\demo\bin\Debug\demo.exe.config
+C:\Users\SERGEY\Desktop\demo-main\demo\bin\Debug\demo.exe
+C:\Users\SERGEY\Desktop\demo-main\demo\bin\Debug\demo.pdb
+C:\Users\SERGEY\Desktop\demo-main\demo\bin\Debug\EntityFramework.dll
+C:\Users\SERGEY\Desktop\demo-main\demo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SERGEY\Desktop\demo-main\demo\bin\Debug\EntityFramework.xml
+C:\Users\SERGEY\Desktop\demo-main\demo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SERGEY\Desktop\demo-main\demo\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\SERGEY\Desktop\demo-main\demo\obj\Debug\demo.csproj.AssemblyReference.cache
+C:\Users\SERGEY\Desktop\demo-main\demo\obj\Debug\Pages\User_buttons.g.cs
+C:\Users\SERGEY\Desktop\demo-main\demo\obj\Debug\Windows\Auth.g.cs
+C:\Users\SERGEY\Desktop\demo-main\demo\obj\Debug\Windows\MainWindow.g.cs
+C:\Users\SERGEY\Desktop\demo-main\demo\obj\Debug\Windows\New_Request.g.cs
+C:\Users\SERGEY\Desktop\demo-main\demo\obj\Debug\Windows\Request_list.g.cs
+C:\Users\SERGEY\Desktop\demo-main\demo\obj\Debug\App.g.cs
+C:\Users\SERGEY\Desktop\demo-main\demo\obj\Debug\demo_Content.g.cs
+C:\Users\SERGEY\Desktop\demo-main\demo\obj\Debug\demo_MarkupCompile.cache
+C:\Users\SERGEY\Desktop\demo-main\demo\obj\Debug\demo_MarkupCompile.lref
+C:\Users\SERGEY\Desktop\demo-main\demo\obj\Debug\Pages\User_buttons.baml
+C:\Users\SERGEY\Desktop\demo-main\demo\obj\Debug\Windows\Auth.baml
+C:\Users\SERGEY\Desktop\demo-main\demo\obj\Debug\Windows\MainWindow.baml
+C:\Users\SERGEY\Desktop\demo-main\demo\obj\Debug\Windows\New_Request.baml
+C:\Users\SERGEY\Desktop\demo-main\demo\obj\Debug\Windows\Request_list.baml
+C:\Users\SERGEY\Desktop\demo-main\demo\obj\Debug\demo.g.resources
+C:\Users\SERGEY\Desktop\demo-main\demo\obj\Debug\demo.Properties.Resources.resources
+C:\Users\SERGEY\Desktop\demo-main\demo\obj\Debug\demo.csproj.GenerateResource.cache
+C:\Users\SERGEY\Desktop\demo-main\demo\obj\Debug\demo.csproj.CoreCompileInputs.cache
+C:\Users\SERGEY\Desktop\demo-main\demo\obj\Debug\demo.csproj.Up2Date
+C:\Users\SERGEY\Desktop\demo-main\demo\obj\Debug\demo.exe
+C:\Users\SERGEY\Desktop\demo-main\demo\obj\Debug\demo.pdb
